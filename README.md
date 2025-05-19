@@ -55,8 +55,8 @@ The final repository includes:
 ```
 review-sentiment-analyzer/
 ├── Sentiment_Analysis_Notebook.ipynb  # Complete ML pipeline notebook
-├── model.pkl                          # Final Linear SVC model
-├── vectorizer.pkl                     # TF-IDF vectorizer
+├── linear_svc_model.pkl                          # Final Linear SVC model
+├── tfidf_vectorizer.pkl                     # TF-IDF vectorizer
 ├── README.md                          # This file
 ```
 
