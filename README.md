@@ -79,6 +79,10 @@ review-sentiment-analyzer/
 
 **Rohit Gomes**
 
+## Check out my deployed model: [My Model][huggingface_link]
+
+[huggingface_link]: https://huggingface.co/spaces/RJx334/review-sentiment-analyzer
+
 ---
 
 *This project was developed to strengthen core ML skills by combining exploratory analysis with practical unsupervised and supervised learning implementation.*
