@@ -79,10 +79,6 @@ review-sentiment-analyzer/
 
 **Rohit Gomes**
 
-## 📎 License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 *This project was developed to strengthen core ML skills by combining exploratory analysis with practical unsupervised and supervised learning implementation.*
